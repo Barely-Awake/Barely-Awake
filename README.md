@@ -6,7 +6,8 @@
   not accept your friend request).
 - ⚡ Fun fact about me: 🏳️‍🌈
 - 📚 I've worked with TS, Golang, Lua, & Python.
-  <img src="https://komarev.com/ghpvc/?username=Barely-Awake&color=64DFDF" alt="">
+
+<img src="https://komarev.com/ghpvc/?username=Barely-Awake&color=64DFDF" alt="">
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barely-Awake&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
