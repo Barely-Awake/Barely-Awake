@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on [Ascend](https://github.com/Barely-Awake/ascend) - an open source moderation bot for
   discord!
-- 📫 How to reach me: Barely Awake#1813 on Discord (join [this server](https://discord.gg/PpdbKXKgT3) and @ me, I might
-  not accept your friend request).
+- 📫 How to reach me: [Barely Awake#1813](https://discord.com/users/772890071681466379) on Discord (may be best to join [this server](https://discord.gg/PpdbKXKgT3) and @ me, I might not accept your friend request)
 - ⚡ Fun fact about me: 🏳️‍🌈
 - 📚 I've worked with TS, Golang, Lua, & Python.
 
