@@ -1,14 +1,10 @@
-### Hey, I'm Ryan! 👋
+### woah, you found my github profile!!!
+(i'm ryan btw)
 
-- 🔭 I’m currently working on [Ascend](https://github.com/Barely-Awake/ascend) - an open source moderation bot for
-  discord!
-- 📫 How to reach me: [Barely Awake#1813](https://discord.com/users/772890071681466379) on discord (may be best to join [this server](https://discord.gg/PpdbKXKgT3) and mention me, I might not accept your friend request)
-- ⚡ Fun fact about me: 🏳️‍🌈
-- 📚 I've worked with TS, Golang, Lua, & Python.
+i'm currently working on [Observer](https://discord.gg/fYUSmYWbCZ), a Hypixel statistics tracking bot
+
+i mainly use TypeScript, but i know Go, Python, and Lua (and js but that's kinda obvious)
+
+also i mainly use Discord so if you want to reach out to me that's probably the best way. you can reach me @ [Barely Awake#1813](https://discord.com/users/772890071681466379) though it may be best to join [this server](https://discord.gg/fYUSmYWbCZ) and @ me, i might not accept your friend request
 
 <img src="https://komarev.com/ghpvc/?username=Barely-Awake&color=64DFDF" alt="">
-
-[![Barely-Awake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barely-Awake&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-| <img align="center" src="/github-metrics.svg" alt="Barely-Awake's GitHub Stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barely-awake&show_icons=true&title_color=64DFDF&icon_color=64DFDF&text_color=fff&bg_color=151515" /></a> |
-|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
